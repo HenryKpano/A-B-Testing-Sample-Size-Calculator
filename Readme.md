@@ -10,7 +10,7 @@ Open directory: cd sample
 
 Create virtualenv: python3 -m venv venv
 
-Activate env: venv/bin/activate
+Activate env: source venv/bin/activate
 
 Upgrade pip: pip install --upgrade pip
 
