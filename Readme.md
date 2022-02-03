@@ -15,7 +15,7 @@ Activate env: venv/bin/activate
 Upgrade pip: pip install --upgrade pip
 
 Intall statistical model: This would install all the packages that are needed
-pip install statsmodels
+: pip install statsmodels
 
 Run py file: python sample_size.py
 
