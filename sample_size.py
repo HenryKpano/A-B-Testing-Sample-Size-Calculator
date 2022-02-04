@@ -9,7 +9,8 @@ baseline_conversion = 0.20
 # minimum detectable effect - this refes to the sensitivity of the test.
 # In other words, it is the smallest relative change in baseline_conversion rate you are interested in detecting
 # This is also known as the lift rate between the current conversion rate and the targeted rate
-mde = 0.1
+# It is calculated as a percentage of the baseline_conversion
+mde = 0.5
 
 
 alp = 0.05
