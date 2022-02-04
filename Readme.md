@@ -24,7 +24,7 @@ Example (Sample_size.py)
 
 The sample uses some assumptions
 - Conversion rate expected is 20% which is serves as the initial conversion rate
-- minimum detectable effect of 10%
+- minimum detectable effect of 50%
 - power of 80%
 - alpha of 5%
 
