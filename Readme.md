@@ -1,4 +1,4 @@
-Calsulating the required sample size for A/B TESTING
+Calculating the required sample size for A/B TESTING
 
 Using a virtual Env
 
